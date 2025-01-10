@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Product 1", "price": 29.99, "category": "electronics", "image": "/images/electronic3.jpg" },
+  { "id": 2, "name": "Product 2", "price": 19.99, "category": "clothing", "image": "/images/clothing.jpg" },
+  { "id": 3, "name": "Product 3", "price": 49.99, "category": "electronics", "image": "/images/electronic2.jpg" },
+  { "id": 4, "name": "Product 4", "price": 14.99, "category": "clothing", "image": "/images/clothing.jpeg" },
+  { "id": 5, "name": "Product 5", "price": 99.99, "category": "home", "image": "/images/home.jpg" },
+  { "id": 6, "name": "Product 6", "price": 35.99, "category": "electronics", "image": "/images/electronic.jpg" },
+  { "id": 7, "name": "Product 7", "price": 22.99, "category": "clothing", "image": "/images/clothing3.jpg" },
+  { "id": 8, "name": "Product 8", "price": 12.99, "category": "home", "image": "/images/home2.jpg" },
+  { "id": 9, "name": "Product 9", "price": 59.99, "category": "electronics", "image": "/images/electronic4.jpg" },
+  { "id": 10, "name": "Product 10", "price": 42.99, "category": "home", "image": "/images/home3.jpg" }
+]
